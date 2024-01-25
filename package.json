@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "node": "^21.6.0",
+    "showdown": "^2.1.0"
+  }
+}
