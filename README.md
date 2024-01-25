@@ -50,7 +50,7 @@ Please note that this is a simple setup meant for local development and testing.
 
 1. **Download model**
 
-Create a folder named `models`, then download `mistral-7b-openorca.Q4_0.gguf` from here <https://huggingface.co/Open-Orca/Mistral-7B-OpenOrca> and put into the `models` folder
+Create a folder named `models`, then download `mistral-7b-openorca.Q4_0.gguf` from here <https://huggingface.co/Open-Orca/Mistral-7B-OpenOrca> and put into the `models` folder. You can choose any other gguf models instead of mistral-7b-openorca.Q4_0.gguf, as long as it is not too heavy to run on your computer.
 
 2. **Install llama_cpp Python**
 
